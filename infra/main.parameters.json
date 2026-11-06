@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "subscriptionId": {
+      "value": "8b9b405a-1690-4711-9bad-5e953e2130b3"
+    },
+    "resourceGroupName": {
+      "value": "rg-s.guerrero-ia-3504"
+    },
+    "location": {
+      "value": "brazilsouth"
+    },
+    "appName": {
+      "value": "app-asistente-seguimiento-academico-dev-e352"
+    },
+    "appServicePlanName": {
+      "value": "asp-asistente-seguimiento-academico-dev-e352"
+    },
+    "sessionId": {
+      "value": "e3520ce4-6044-4926-85d5-bfdb5c248b8e"
+    },
+    "environmentName": {
+      "value": "asistente-seguimiento-academico-dev-e352"
+    },
+    "deployedBy": {
+      "value": "SALVADOR GUERRERO MORENO"
+    },
+    "createdAt": {
+      "value": "2026-11-03T17:31:39.3300444Z"
+    }
+  }
+}
