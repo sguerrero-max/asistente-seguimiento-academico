@@ -1,11 +1,18 @@
 # Comprobaciones finales de entrega
 
-El paquete documental está preparado con el código recibido y las evidencias aportadas. Antes de publicar:
+## Ya realizado
 
-1. Abrir el enlace en otro dispositivo o ventana privada y confirmar acceso sin advertencias del navegador. Esta comprobación sigue pendiente; las capturas aportadas muestran acceso en el equipo del autor.
-2. Confirmar que los archivos ya estén publicados en https://github.com/sguerrero-max/asistente-seguimiento-academico y que README.md, ENTREGA.md y las imágenes se vean correctamente desde una ventana privada.
-3. Contrastar con la rúbrica oficial del curso, si está disponible.
-4. Adjuntar el ZIP depurado de esta entrega. No adjuntar el ZIP original de la carpeta completa, que incluía .env y archivos internos.
-5. Copiar MENSAJE_ENTREGA.txt cuando se hayan resuelto las condiciones de acceso. Si persiste una incidencia, describirla expresamente en el mensaje.
+- Código reunido en un paquete depurado.
+- Repositorio público y carpeta .github publicados; push documentado en la captura del autor.
+- Siete capturas e índice de evidencias incluidos.
+- Documento Markdown actualizado con la consigna, arquitectura y seis principios de IA responsable.
 
-Este paquete no cambia la aplicación publicada. Para conservar la documentación en la PC, copiar README.md y ENTREGA.md a la carpeta del proyecto, guardando una copia del README anterior. No sobrescribir .env ni ejecutar create-agent.js con --apply.
+## Antes de enviar
+
+1. Sustituir ENTREGA.md, README.md, MENSAJE_ENTREGA.txt, ANTES_DE_PUBLICAR.md y SHA256SUMS.txt del repositorio por esta revisión documental. Conservar las carpetas y el código actuales.
+2. Abrir la aplicación desde una ventana privada y otro dispositivo; enviar una solicitud ficticia y comprobar respuesta sin advertencias. Esta verificación sigue pendiente de confirmación. Si aparece una advertencia, no pedir al evaluador desactivar protecciones.
+3. Comprobar que ENTREGA.md y sus imágenes se vean correctamente en GitHub. Para el Markdown adjunto, las capturas enlazan también a GitHub Raw para evitar que se pierdan al cargar solo el .md.
+4. Cargar ENTREGA.md como documento obligatorio y proporcionar la URL de la aplicación. Añadir el repositorio y el ZIP como complementos donde la plataforma lo permita.
+5. Copiar MENSAJE_ENTREGA.txt y revisar la confirmación del envío en la plataforma.
+
+No ejecutar create-agent.js con --apply ni volver a desplegar para esta actualización documental.

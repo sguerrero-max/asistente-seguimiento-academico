@@ -10,7 +10,7 @@ Repositorio: https://github.com/sguerrero-max/asistente-seguimiento-academico
 
 Tecnologías: Node.js, Express, HTML, CSS y JavaScript; agente en Microsoft Foundry con gpt-4.1-mini y hospedaje en Azure App Service.
 
-Adjunto el código fuente, README de instalación y uso, documento del proyecto en Markdown y capturas de una conversación de dos turnos con datos ficticios, así como de la configuración del agente.
+Presento el documento ENTREGA.md en formato Markdown, con explicación del problema, solución, arquitectura, prueba de dos turnos con datos ficticios, capturas y aplicación de los seis principios de IA responsable. El repositorio y el ZIP contienen el código fuente, instrucciones de uso y evidencias.
 
 Para probarlo, escriba una solicitud ficticia y después agregue los datos que el asistente solicite dentro de la misma conversación. El prototipo genera propuestas; no registra solicitudes en una base de datos ni ejecuta autorizaciones.
 

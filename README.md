@@ -101,3 +101,7 @@ No hay base de datos de solicitudes, asignación automática de folios, envío d
 Las respuestas pueden contener errores; requieren revisión humana. No se midieron ahorros de tiempo, precisión general ni reducción de costos. El plan F1 no elimina los cargos por consumo del modelo. La disponibilidad depende del servicio y de sus cuotas.
 
 Se reportó anteriormente una advertencia de seguridad del navegador. Las capturas de uso del 6 de noviembre muestran acceso a la aplicación sin esa pantalla, pero no constituyen resolución formal de la alerta ni auditoría de seguridad. Antes de compartir el enlace, comprobar acceso desde otro dispositivo; si aparece la advertencia, registrar la incidencia sin pedir al evaluador que desactive protecciones.
+
+## Entrega académica
+
+El documento principal es [ENTREGA.md](ENTREGA.md), con problema, solución, arquitectura, prueba de dos turnos, capturas y los seis principios de IA responsable. La consigna solicita un archivo Markdown y una aplicación accesible; GitHub y el ZIP son complementarios. No es necesario volver a desplegar para actualizar estos documentos.
